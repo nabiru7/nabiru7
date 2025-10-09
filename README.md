@@ -1,4 +1,4 @@
-# Hey there! 👋
+# 안녕하세요! 👋
 
 I'm **Nabiru**, a student currently doing an internship as a Frontend Developer.  
 Even though I'm part of the FE team, I actually have a stronger interest in **Backend Development**, especially using **Golang**.
@@ -9,7 +9,7 @@ I also use **React** for frontend stuff, but my real curiosity stays on how data
 ---
 
 ### 🌱 About me
-- 🔭 Currently an intern (PKL) and learning how real-world projects work.  
+- 🔭 Currently an intern and learning how real-world projects work.  
 - ⚙️ Using **React** for frontend, **Golang** for backend.  
 - ☕ I love **coffee**, **photography**, and a bit of **design**, even though I don’t plan to be a designer.  
 - 🧩 My goal? Still figuring it out — as long as it’s in IT and pays well, I’m happy. 😄  
