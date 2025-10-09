@@ -1,6 +1,6 @@
 # 안녕하세요! 👋
 
-I'm **Nabiru**, a student currently doing an internship as a Frontend Developer.  
+I'm **Iurie**, a student currently doing an internship as a Frontend Developer.  
 Even though I'm part of the FE team, I actually have a stronger interest in **Backend Development**, especially using **Golang**.
 
 I enjoy learning how systems work behind the scenes, building clean APIs, and exploring how logic connects everything together.  
