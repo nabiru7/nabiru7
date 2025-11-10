@@ -12,7 +12,7 @@ I also use **React** for frontend stuff, but my real curiosity stays on how data
 - 🔭 Currently an intern and learning how real-world projects work.  
 - ⚙️ Using **React** for frontend, **Golang** for backend.  
 - ☕ I love **coffee**, **photography**, and a bit of **design**, even though I don’t plan to be a designer.  
-- 🧩 My goal? Still figuring it out — as long as it’s in IT and pays well, I’m happy. 😄  
+- 🧩 My goal? Still figuring it out, as long as it’s in IT and pays well, I’m happy. 😄  
 
 ---
 
