@@ -1,4 +1,4 @@
-# Hi there 👋
+# 안녕하세요! 👋
 
 I'm **Iurie**, a former Frontend Intern who is currently focusing on **Backend Development**.
 
