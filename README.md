@@ -1,22 +1,24 @@
-# 안녕하세요! 👋
+# Hi, I'm Iurie 👋
 
-I'm **Iurie**, a former Frontend Intern who is currently focusing on **Backend Development**.
+A software engineering graduate focused on frontend web development.
+I build interfaces using React Vite, work with REST APIs via Postman,
+and adapt between vanilla CSS, Bootstrap, or Tailwind depending on the project.
 
-I have experience working with **frontend (React)** during internships and school projects, which helped me understand how interfaces interact with data and APIs.  
-Over time, I found myself more interested in backend logic, data handling, and API design.
-
-Currently, I'm strengthening my backend fundamentals and learning through hands-on practice.
+Outside of web dev, I'm exploring various areas of IT.
 
 ---
 
-### 🌱 About
-- Former Frontend Intern  
-- Learning Backend Development  
-- Familiar with React & Golang (basic)  
-- Interested in system logic and APIs  
+### 🛠 Tech Stack
+- React (Vite)
+- JavaScript
+- Vanilla CSS · Bootstrap · Tailwind
+- Postman
+- Python
+- SQL
+- Linux
 
 ---
 
 ### 🔗 Links
-- LinkedIn: https://www.linkedin.com/in/iurie-nabiil/
-- Medium: https://medium.com/@yoonabiil14
+- LinkedIn: [linkedin.com/in/iurie-nabiil](https://linkedin.com/in/iurie-nabiil)
+- Substack: [yoonabiil.substack.com](https://yoonabiil.substack.com)
