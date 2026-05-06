@@ -1,21 +1,18 @@
-# Hi, I'm Iurie 👋
-
-A software engineering graduate focused on frontend web development.
+# 안녕하세요! 👋
+I'm **Iurie**, a software engineering graduate focused on **Frontend Development**.
 I build interfaces using React Vite, work with REST APIs via Postman,
 and adapt between vanilla CSS, Bootstrap, or Tailwind depending on the project.
+I've applied this through an internship and a real-world client project during Teaching Factory.
 
 Outside of web dev, I'm exploring various areas of IT.
 
 ---
 
-### 🛠 Tech Stack
-- React (Vite)
-- JavaScript
-- Vanilla CSS · Bootstrap · Tailwind
-- Postman
-- Python
-- SQL
-- Linux
+### 🌱 About
+- Software Engineering Graduate
+- Frontend Developer (React Vite)
+- Familiar with Python & SQL
+- Exploring various areas of IT
 
 ---
 
