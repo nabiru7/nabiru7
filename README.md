@@ -18,4 +18,5 @@ Outside of web dev, I'm exploring various areas of IT.
 
 ### 🔗 Links
 - LinkedIn: [linkedin.com/in/iurie-nabiil](https://linkedin.com/in/iurie-nabiil)
+- Instagram: [instagram.com/iurienbl_](https://www.instagram.com/iurienbl_/)
   
