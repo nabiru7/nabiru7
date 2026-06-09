@@ -18,4 +18,4 @@ Outside of web dev, I'm exploring various areas of IT.
 
 ### 🔗 Links
 - LinkedIn: [linkedin.com/in/iurie-nabiil](https://linkedin.com/in/iurie-nabiil)
-- Substack: [yoonabiil.substack.com](https://yoonabiil.substack.com)
+  
