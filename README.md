@@ -1,5 +1,5 @@
 ```yml
-┌─ iurie@linuxmint ───────────────────────────────────────────────────┐
+┌─ nabiru7@desktop ───────────────────────────────────────────────────┐
 │  os      : Linux Mint (GNOME) · Windows 11                          │
 │  role    : Frontend Developer & Game Dev Hobbyist                   │
 │  study   : Computer Engineering @ UPI                               │
